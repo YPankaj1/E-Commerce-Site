@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "", // Add API Key
-  databaseURL:"" // Add databaseURL
+  apiKey: "AIzaSyD20FXnBXavL1efgiZHlNlkojyGSA7eeVg", // Add API Key
+  databaseURL:"https://console.firebase.google.com/u/0/project/meet-clone-a2be0/database/meet-clone-a2be0-default-rtdb/data/~2F" // Add databaseURL
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
